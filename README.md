@@ -9,4 +9,6 @@ How is it going to be the material structured? Each folder will have a specific 
 Note: The Universidad Iberoamericana Puebla is sponsoring all the material. 
 
 
-!['Was me'](https://testbytes.technoallianceindia.com/wp-content/uploads/2019/06/Untitled-59-1.png)
+<p align="center">
+  <img width="470" src="/Images/wasMe.png">
+</p>
