@@ -10,5 +10,5 @@ Note: The Universidad Iberoamericana Puebla is sponsoring all the material.
 
 
 <p align="center">
-  <img width="470" src="/Images/wasMe.png">
+  <img width="470" src="/Images/wasme.png">
 </p>
