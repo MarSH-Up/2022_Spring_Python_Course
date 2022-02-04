@@ -7,3 +7,7 @@ How is it going to be the material structured? Each folder will have a specific 
 
 
 Note: The Universidad Iberoamericana Puebla is sponsoring all the material. 
+
+
+
+<img src="https://testbytes.technoallianceindia.com/wp-content/uploads/2019/06/Untitled-59-1.png">
